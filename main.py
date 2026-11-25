@@ -10,7 +10,7 @@ import os
 
 JOKE = (
     "Monday morning, my alarm clock apologized before ringing -- it had "
-    "seen my calendar and didn't want to be the bearer of bad news either."
+    "already read my calendar and refused to be the bearer of bad news."
 )
 
 
